@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Key: Escape",
+    "firmware_index": 22,
+    "x": 27.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 1",
+    "firmware_index": 23,
+    "x": 65.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 2",
+    "firmware_index": 24,
+    "x": 103.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 3",
+    "firmware_index": 25,
+    "x": 141.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 4",
+    "firmware_index": 26,
+    "x": 179.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 5",
+    "firmware_index": 27,
+    "x": 217.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 6",
+    "firmware_index": 28,
+    "x": 255.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 7",
+    "firmware_index": 29,
+    "x": 293.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 8",
+    "firmware_index": 30,
+    "x": 331.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 9",
+    "firmware_index": 31,
+    "x": 369.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: 0",
+    "firmware_index": 32,
+    "x": 407.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: -",
+    "firmware_index": 33,
+    "x": 445.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: =",
+    "firmware_index": 34,
+    "x": 483.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: Backspace",
+    "firmware_index": 36,
+    "x": 540.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: Insert",
+    "firmware_index": 38,
+    "x": 597.5,
+    "y": 32.5
+  },
+  {
+    "name": "Key: Tab",
+    "firmware_index": 44,
+    "x": 37.0,
+    "y": 70.5
+  },
+  {
+    "name": "Key: Q",
+    "firmware_index": 45,
+    "x": 84.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: W",
+    "firmware_index": 46,
+    "x": 122.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: E",
+    "firmware_index": 47,
+    "x": 160.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: R",
+    "firmware_index": 48,
+    "x": 198.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: T",
+    "firmware_index": 49,
+    "x": 236.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: Y",
+    "firmware_index": 50,
+    "x": 274.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: U",
+    "firmware_index": 51,
+    "x": 312.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: I",
+    "firmware_index": 52,
+    "x": 350.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: O",
+    "firmware_index": 53,
+    "x": 388.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: P",
+    "firmware_index": 54,
+    "x": 426.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: [",
+    "firmware_index": 55,
+    "x": 464.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: ]",
+    "firmware_index": 56,
+    "x": 502.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: \\",
+    "firmware_index": 58,
+    "x": 550.0,
+    "y": 70.5
+  },
+  {
+    "name": "Key: Delete",
+    "firmware_index": 60,
+    "x": 597.5,
+    "y": 70.5
+  },
+  {
+    "name": "Key: Caps Lock",
+    "firmware_index": 66,
+    "x": 41.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: A",
+    "firmware_index": 68,
+    "x": 93.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: S",
+    "firmware_index": 69,
+    "x": 131.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: D",
+    "firmware_index": 70,
+    "x": 169.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: F",
+    "firmware_index": 71,
+    "x": 207.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: G",
+    "firmware_index": 72,
+    "x": 245.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: H",
+    "firmware_index": 73,
+    "x": 283.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: J",
+    "firmware_index": 74,
+    "x": 321.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: K",
+    "firmware_index": 75,
+    "x": 359.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: L",
+    "firmware_index": 76,
+    "x": 397.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: ;",
+    "firmware_index": 77,
+    "x": 435.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: '",
+    "firmware_index": 78,
+    "x": 473.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: Enter",
+    "firmware_index": 80,
+    "x": 535.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: Page Up",
+    "firmware_index": 82,
+    "x": 597.5,
+    "y": 108.5
+  },
+  {
+    "name": "Key: Left Shift",
+    "firmware_index": 88,
+    "x": 51.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: Z",
+    "firmware_index": 90,
+    "x": 113.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: X",
+    "firmware_index": 91,
+    "x": 151.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: C",
+    "firmware_index": 92,
+    "x": 189.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: V",
+    "firmware_index": 93,
+    "x": 227.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: B",
+    "firmware_index": 94,
+    "x": 265.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: N",
+    "firmware_index": 95,
+    "x": 303.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: M",
+    "firmware_index": 96,
+    "x": 341.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: ,",
+    "firmware_index": 97,
+    "x": 379.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: .",
+    "firmware_index": 98,
+    "x": 417.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: /",
+    "firmware_index": 99,
+    "x": 455.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: Right Shift",
+    "firmware_index": 101,
+    "x": 507.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: Up Arrow",
+    "firmware_index": 103,
+    "x": 559.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: Page Down",
+    "firmware_index": 104,
+    "x": 597.5,
+    "y": 146.5
+  },
+  {
+    "name": "Key: Left Control",
+    "firmware_index": 110,
+    "x": 33.5,
+    "y": 184.5
+  },
+  {
+    "name": "Key: Left Windows",
+    "firmware_index": 111,
+    "x": 83.5,
+    "y": 184.5
+  },
+  {
+    "name": "Key: Left Alt",
+    "firmware_index": 112,
+    "x": 133.5,
+    "y": 184.5
+  },
+  {
+    "name": "Key: Space",
+    "firmware_index": 116,
+    "x": 273.5,
+    "y": 184.5
+  },
+  {
+    "name": "Key: Right Alt",
+    "firmware_index": 119,
+    "x": 407.5,
+    "y": 184.5
+  },
+  {
+    "name": "Key: Right Fn",
+    "firmware_index": 121,
+    "x": 445.5,
+    "y": 184.5
+  },
+  {
+    "name": "Key: Right Control",
+    "firmware_index": 122,
+    "x": 483.5,
+    "y": 184.5
+  },
+  {
+    "name": "Key: Left Arrow",
+    "firmware_index": 124,
+    "x": 521.5,
+    "y": 184.5
+  },
+  {
+    "name": "Key: Down Arrow",
+    "firmware_index": 125,
+    "x": 559.5,
+    "y": 184.5
+  },
+  {
+    "name": "Key: Right Arrow",
+    "firmware_index": 126,
+    "x": 597.5,
+    "y": 184.5
+  }
+]

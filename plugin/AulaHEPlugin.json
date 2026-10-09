@@ -1,0 +1,10 @@
+{
+  "Id": "OpenRGB-WIN68",
+  "Name": "OpenRGB-WIN68",
+  "Description": "A OpenRGB Plugin That's Connect AULA WIN68 HE to OpenRGB Without OEM Software.",
+  "Version": "1.0.0",
+  "Commit": "Bardia Dehbozorgi",
+  "Author": "BARDIA156",
+  "URL": "https://github.com/BARDIA156/OpenRGB-WIN68",
+  "OpenRGBPluginAPIVersion": 5
+}
