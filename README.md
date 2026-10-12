@@ -1,1 +1,1 @@
-<img src="assets/Logo_Black.png" alt="Black logo" width="720">
+<img src="assets/Logo_White.png" alt="White logo" width="720">
