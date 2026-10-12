@@ -10,3 +10,6 @@ Connect Your Keyboard To **OpenRGB** And Sync it with your RGB Ecosystem.
 - Brightness And Speed Bar
 - Easy to Use
 - Compatible With Other Hardware in **OpenRGB**
+- Source Code (If You Wana Make It Yourself) and Compiled Version of Project.
+- Drag And Drop Installation
+- Accurate Key-mapping In "**Toggle LED View**" In **OpenRGB** For Better Per-key Experience. 
