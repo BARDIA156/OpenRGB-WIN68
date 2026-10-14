@@ -18,3 +18,9 @@ Connect Your AULA WIN68 HE To **OpenRGB** And Sync it with your Other RGB Device
 ## 🖥️ Demo Video
 [![Watch the video](https://img.youtube.com/vi/DybYsERCELA/maxresdefault.jpg)](https://youtu.be/DybYsERCELA)
 
+# 🪛 Installation 
+1. Download the Latest **[Release](https://github.com/BARDIA156/OpenRGB-WIN68/releases)
+2. Extract The Downloaded File
+3. Move The Extracted Files to `C:\Program Files\OpenRGB\plugins`
+
+If You Couldn't find Your OpenRGB Folder, Just Right Click on OpenRGB Shortcut and Select **"Open File Location"**
