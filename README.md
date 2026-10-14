@@ -33,7 +33,7 @@ You Need to Have a **_Github Account_** to Continue this Guide.
 
 For Better Explain, Please Read This **[Official Guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories?tool=webui#create-a-repository)**
 
-After Reading This Guide and Made Your Repository, You Can Continue to Next Step.
+After Reading The Guide and Made Your Repository, You Can Continue to Next Step.
 
 1. Download the Project by Clicking This Link --> **[Source](https://github.com/BARDIA156/OpenRGB-WIN68/archive/refs/heads/main.zip)**
 
