@@ -18,6 +18,7 @@ Connect Your AULA WIN68 HE To **OpenRGB** And Sync it with your Other RGB Device
 ## 🖥️ Demo Video
 [![Watch the video](https://img.youtube.com/vi/DybYsERCELA/maxresdefault.jpg)](https://youtu.be/DybYsERCELA)
 
+
 # 🪛 Installation 
 1. Download the Latest Project **[Release](https://github.com/BARDIA156/OpenRGB-WIN68/releases)**
 
@@ -25,6 +26,7 @@ Connect Your AULA WIN68 HE To **OpenRGB** And Sync it with your Other RGB Device
 3. Move The Extracted Files to `C:\Program Files\OpenRGB\plugins`
 
 If You Couldn't find Your OpenRGB Folder, Just Right Click on OpenRGB Shortcut and Select **"Open File Location"**
+
 
 # 🔧 Building from Source ( Github ) 
 You Need to Have a **_Github Account_** to Continue this Guide.
@@ -55,9 +57,11 @@ After Reading The Guide and Made Your Repository, You Can Continue to Next Step.
 
 Congratulation, You Just Compiled Our Project by Yourself👍 and Successfully Have a .dll in the New Downloaded File. 
 
+
 # 🔧 Building from Source ( Visual Studio or Other Software )
 **IDK** ¯\_(ツ)_/¯
 I Do not have any plan Adding Guide for This Part. You're on Your Own, Good Luck 👋.
+
 
 # 🔎 Advanced Information About This Keyboard
 I Actually Don't Know Many Things About this Keyboard. If You Wana Full Driver and Advanced Information I Highly Suggest You to Check **[MrWhosNexus](https://github.com/MrWhosNexus/Aether-HE)**.
