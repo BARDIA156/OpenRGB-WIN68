@@ -5,6 +5,7 @@ Connect Your AULA WIN68 HE To **OpenRGB** And Sync it with your Other RGB Device
 
 ## ✨ Features
 - All The WebDriver Effects
+
 - Per-Key Color Slection
 - Compatible With "**OpenRGBEffectsPlugin**"
 - Brightness And Speed Bar
