@@ -10,6 +10,7 @@ Connect your AULA WIN68 HE keyboard to **OpenRGB** and sync its lighting with yo
 ## ✨ Features
 
 - Supports the keyboard's built-in lighting effects
+
 - Lets you select a color for each key
 - Works with **OpenRGBEffectsPlugin**
 - Includes brightness and speed controls
@@ -36,15 +37,16 @@ Restart OpenRGB after installing the plugin.
 
 ## 🔧 Building from Source with GitHub Actions
 
-The repository includes a GitHub Actions workflow that builds the plugin for Windows x64.
+Precompiled versions are available on the [Releases](https://github.com/BARDIA156/OpenRGB-WIN68/releases) page. If you prefer to build the plugin yourself, you can use GitHub Actions on your own fork:
 
-1. Open the repository's [Actions](https://github.com/BARDIA156/OpenRGB-WIN68/actions) page.
-2. Select **Build AULA WIN68 HE plugin**.
+1. Fork this repository to your GitHub account.
+2. Open the **Actions** tab in your fork and enable workflows if prompted.
 3. Select the build workflow from the left sidebar.
-4. Wait for the workflow to finish.
-5. Open the completed workflow run and download the file from **Artifacts**.
+4. Click **Run workflow**, choose the branch, and confirm.
 
-The build runs on GitHub's Windows environment. It checks the generated keymap and keyboard layout before compiling the plugin.
+5. Once the build finishes successfully, open the workflow run and download the plugin from **Artifacts**.
+
+The workflow file must be included in your fork under `.github/workflows/build-plugin.yml` and support manual runs (`workflow_dispatch`).
 
 ## 🔧 Building Locally
 
