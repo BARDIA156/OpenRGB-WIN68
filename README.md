@@ -63,4 +63,4 @@ I Do not have any plan Adding Guide for This Part. You're on Your Own, Good Luck
 <!-- BOARDS:START -->
 | PID    | VID    |
 |--------|--------|
-|C365 |2E3C |
+|  C365  |   2E3C |
