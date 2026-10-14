@@ -62,4 +62,4 @@ I Do not have any plan Adding Guide for This Part. You're on Your Own, Good Luck
 # 🔎 Advanced Information About This Keyboard
 I Actually Don't Know Many Things About this Keyboard. If You Wana Full Driver and Advanced Information I Highly Suggest You to Check **[MrWhosNexus](https://github.com/MrWhosNexus/Aether-HE)**.
 This Man Was the Person Who Made My Work Very Easy by His Project. Full Reversed Engineered of The Keyboard. 
-@MrWhosNexus/Aether-HE Thank You for Your Hard Work ❤️.
+@MrWhosNexus Thank You for Your Hard Work ❤️.
