@@ -61,6 +61,6 @@ I Do not have any plan Adding Guide for This Part. You're on Your Own, Good Luck
 
 # 🔎 Things we Know About This Keyboard
 <!-- BOARDS:START -->
-| PID | VID |
-|-----|-----|
+| PID    | VID    |
+|--------|--------|
 |C365 |2E3C |
