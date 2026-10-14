@@ -26,7 +26,7 @@ Connect Your AULA WIN68 HE To **OpenRGB** And Sync it with your Other RGB Device
 
 If You Couldn't find Your OpenRGB Folder, Just Right Click on OpenRGB Shortcut and Select **"Open File Location"**
 
-# 🔧 Building from Source ( Github )
+# 🔧 Building from Source ( Github ) 
 You Need to Have a **_Github Account_** to Continue this Guide.
 > [!WARNING]
 > If You Make any Wrong Mistake, the Project Doesn't Build Correctly. Please Do This If You Know What are You Doing Because This Step is Very **_Complicated_**.
@@ -49,9 +49,18 @@ After Reading This Guide and Made Your Repository, You Can Continue to Next Step
 11. Click On "**Add file**" and "**Upload files**".
 12. Drag and Drop Our New `plugin-source-new.zip` that We Made Before, After Upload Complete, click on "Commit changes" Down the Page.
 13. Go to the "Actions" Section and There You Will See a New Workflow That Has a Spinning Icon Next to it, Click on it.
-14. Wait about 1 ⁓ 2 Minutes to Finish the Compiling.
-15. If it Take long or didn't see any changes, just refresh your browser.
-16. If You Done the Steps Correctly and I Explained it Correctly, You Will See a Check Mark Next to The File.
-17. By Scrolling Down on That Page, in the "Artifacts" Section There Will Be a File Named "OpenRGB-WIN68-1.0.0-OpenRGB-1.0-windows-x64"
+14. Wait about 1 ⁓ 2 Minutes to Finish the Compiling. If it Take long or didn't see any changes, just refresh your browser.
+15. If You Done the Steps Correctly and I Explained it Correctly, You Will See a Check Mark Next to The File.
+16. By Scrolling Down on That Page, in the "Artifacts" Section There Will Be a File Named "OpenRGB-WIN68-1.0.0-OpenRGB-1.0-windows-x64"
 
-Congratulation, You Just Compiled Our Project by Yourself and Successfully Have a .dll in the New Downloaded File. 
+Congratulation, You Just Compiled Our Project by Yourself👍 and Successfully Have a .dll in the New Downloaded File. 
+
+# 🔧 Building from Source ( Visual Studio or Other Software )
+**IDK** ¯\_(ツ)_/¯
+I Do not have any plan Adding Guide for This Part. You're on Your Own, Good Luck 👋.
+
+# 🔎 Things we Know About This Keyboard
+<!-- BOARDS:START -->
+| PID | VID |
+|-----|-----|
+|C365 |2E3C |
