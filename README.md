@@ -1,5 +1,5 @@
 # OpenRGB AULA WIN68 Plugin
-![Project Logo](assets/logo.png)
+![Project Logo](assets/Logo.png)
 Connect Your AULA WIN68 HE To **OpenRGB** And Sync it with your Other RGB Devices.
 > [!IMPORTANT]
 > This Project is Very New and Has Many Bugs. If You Found Any Bugs, Please Report it.
