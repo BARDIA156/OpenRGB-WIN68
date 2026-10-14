@@ -1,4 +1,4 @@
-# OpenRGB AULA WIN68 Plugin
+# OpenRGB AULA WIN68 Plugin  **[برای زبان پارسی روی من بزن](README-Persian.md)**
 
 ![Project Logo](assets/Logo.png)
 
