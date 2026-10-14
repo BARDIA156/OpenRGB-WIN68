@@ -25,3 +25,12 @@ Connect Your AULA WIN68 HE To **OpenRGB** And Sync it with your Other RGB Device
 3. Move The Extracted Files to `C:\Program Files\OpenRGB\plugins`
 
 If You Couldn't find Your OpenRGB Folder, Just Right Click on OpenRGB Shortcut and Select **"Open File Location"**
+
+# 🔧 Building from Source ( Github )
+You Need to Have a Github Account to Continue this Guide.
+> [!WARNING]
+> If You Make any Wrong Mistake, the Project Doesn't Build Correctly. Please Do This If You Know What are You Doing.
+
+For Better Explain, Please Read This **[Official Guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories?tool=webui#create-a-repository)**
+
+1. Download the **[Source](https://github.com/BARDIA156/OpenRGB-WIN68/archive/refs/heads/main.zip)**
