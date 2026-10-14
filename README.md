@@ -14,4 +14,6 @@ Connect Your AULA WIN68 HE To **OpenRGB** And Sync it with your Other RGB Device
 - Drag And Drop Installation
 - Accurate Key-mapping In "**Toggle LED View**" In **OpenRGB** For Better Per-key Experience.
 
+## 🖥️ Demo Video
 [![Watch the video](https://img.youtube.com/vi/DybYsERCELA/maxresdefault.jpg)](https://youtu.be/DybYsERCELA)
+
